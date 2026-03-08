@@ -5,7 +5,7 @@ import time
 
 # --- Configuration ---
 # CRITICAL: Change this to your laptop's actual Wi-Fi IPv4 address!
-LAPTOP_IP = ' 172.17.208.117'
+LAPTOP_IP = '172.17.208.77'
 PORT = 5000
 
 def main():
