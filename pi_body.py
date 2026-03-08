@@ -6,7 +6,7 @@ import time
 # --- Configuration ---
 # CRITICAL: Change this to your laptop's actual Wi-Fi IPv4 address!
 LAPTOP_IP = '172.17.208.77'
-PORT = 5000
+PORT = 8585
 
 def main():
     # 1. Connect to the Laptop Brain
